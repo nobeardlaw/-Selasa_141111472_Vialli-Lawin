@@ -1,0 +1,11 @@
+C:\Users\miich\Desktop\Semester V\Framework Lanjutan\Framework Lanjutan\Project 1\bin\Debug\Project 1.exe.config
+C:\Users\miich\Desktop\Semester V\Framework Lanjutan\Framework Lanjutan\Project 1\bin\Debug\Project 1.exe
+C:\Users\miich\Desktop\Semester V\Framework Lanjutan\Framework Lanjutan\Project 1\bin\Debug\Project 1.pdb
+C:\Users\miich\Desktop\Semester V\Framework Lanjutan\Framework Lanjutan\Project 1\bin\Debug\Project 1.xml
+C:\Users\miich\Desktop\Semester V\Framework Lanjutan\Framework Lanjutan\Project 1\obj\Debug\Project 1.vbprojResolveAssemblyReference.cache
+C:\Users\miich\Desktop\Semester V\Framework Lanjutan\Framework Lanjutan\Project 1\obj\Debug\Project_1.Form1.resources
+C:\Users\miich\Desktop\Semester V\Framework Lanjutan\Framework Lanjutan\Project 1\obj\Debug\Project_1.Resources.resources
+C:\Users\miich\Desktop\Semester V\Framework Lanjutan\Framework Lanjutan\Project 1\obj\Debug\Project 1.vbproj.GenerateResource.Cache
+C:\Users\miich\Desktop\Semester V\Framework Lanjutan\Framework Lanjutan\Project 1\obj\Debug\Project 1.exe
+C:\Users\miich\Desktop\Semester V\Framework Lanjutan\Framework Lanjutan\Project 1\obj\Debug\Project 1.xml
+C:\Users\miich\Desktop\Semester V\Framework Lanjutan\Framework Lanjutan\Project 1\obj\Debug\Project 1.pdb
