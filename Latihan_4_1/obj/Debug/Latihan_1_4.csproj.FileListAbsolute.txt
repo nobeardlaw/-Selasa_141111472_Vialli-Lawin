@@ -1,0 +1,9 @@
+C:\Users\User\Documents\Selasa_141111472_Vialli Lawin\Latihan_1_4\bin\Debug\Latihan_1_4.exe.config
+C:\Users\User\Documents\Selasa_141111472_Vialli Lawin\Latihan_1_4\bin\Debug\Latihan_1_4.exe
+C:\Users\User\Documents\Selasa_141111472_Vialli Lawin\Latihan_1_4\bin\Debug\Latihan_1_4.pdb
+C:\Users\User\Documents\Selasa_141111472_Vialli Lawin\Latihan_1_4\obj\Debug\Latihan_1_4.Form1.resources
+C:\Users\User\Documents\Selasa_141111472_Vialli Lawin\Latihan_1_4\obj\Debug\Latihan_1_4.Properties.Resources.resources
+C:\Users\User\Documents\Selasa_141111472_Vialli Lawin\Latihan_1_4\obj\Debug\Latihan_1_4.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Selasa_141111472_Vialli Lawin\Latihan_1_4\obj\Debug\Latihan_1_4.exe
+C:\Users\User\Documents\Selasa_141111472_Vialli Lawin\Latihan_1_4\obj\Debug\Latihan_1_4.pdb
+C:\Users\User\Documents\Selasa_141111472_Vialli Lawin\Latihan_1_4\obj\Debug\Latihan_1_4.csprojResolveAssemblyReference.cache

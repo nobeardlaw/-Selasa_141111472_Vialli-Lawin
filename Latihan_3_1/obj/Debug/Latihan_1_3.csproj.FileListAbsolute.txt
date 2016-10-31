@@ -1,0 +1,8 @@
+C:\Users\User\Documents\Selasa_141111472_Vialli Lawin\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\User\Documents\Selasa_141111472_Vialli Lawin\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\User\Documents\Selasa_141111472_Vialli Lawin\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\User\Documents\Selasa_141111472_Vialli Lawin\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\User\Documents\Selasa_141111472_Vialli Lawin\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\User\Documents\Selasa_141111472_Vialli Lawin\WindowsFormsApplication1\obj\Debug\Latihan_1_3.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Selasa_141111472_Vialli Lawin\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\User\Documents\Selasa_141111472_Vialli Lawin\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb

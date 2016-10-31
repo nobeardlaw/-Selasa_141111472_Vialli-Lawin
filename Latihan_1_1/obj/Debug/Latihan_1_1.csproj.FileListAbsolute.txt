@@ -1,0 +1,9 @@
+C:\Users\User\Documents\Selasa_141111472_Vialli Lawin\Selasa_141111472_Vialli Lawin\bin\Debug\Selasa_141111472_Vialli Lawin.exe.config
+C:\Users\User\Documents\Selasa_141111472_Vialli Lawin\Selasa_141111472_Vialli Lawin\bin\Debug\Selasa_141111472_Vialli Lawin.exe
+C:\Users\User\Documents\Selasa_141111472_Vialli Lawin\Selasa_141111472_Vialli Lawin\bin\Debug\Selasa_141111472_Vialli Lawin.pdb
+C:\Users\User\Documents\Selasa_141111472_Vialli Lawin\Selasa_141111472_Vialli Lawin\obj\Debug\Latihan_1_1.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Selasa_141111472_Vialli Lawin\Selasa_141111472_Vialli Lawin\obj\Debug\Selasa_141111472_Vialli_Lawin.Form1.resources
+C:\Users\User\Documents\Selasa_141111472_Vialli Lawin\Selasa_141111472_Vialli Lawin\obj\Debug\Selasa_141111472_Vialli_Lawin.Properties.Resources.resources
+C:\Users\User\Documents\Selasa_141111472_Vialli Lawin\Selasa_141111472_Vialli Lawin\obj\Debug\Latihan_1_1.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Selasa_141111472_Vialli Lawin\Selasa_141111472_Vialli Lawin\obj\Debug\Selasa_141111472_Vialli Lawin.exe
+C:\Users\User\Documents\Selasa_141111472_Vialli Lawin\Selasa_141111472_Vialli Lawin\obj\Debug\Selasa_141111472_Vialli Lawin.pdb
