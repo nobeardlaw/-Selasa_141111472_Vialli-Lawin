@@ -7,3 +7,6 @@ C:\Users\User\Documents\Selasa_141111472_Vialli Lawin\Selasa_141111472_Vialli La
 C:\Users\User\Documents\Selasa_141111472_Vialli Lawin\Selasa_141111472_Vialli Lawin\obj\Debug\Latihan_1_1.csproj.GenerateResource.Cache
 C:\Users\User\Documents\Selasa_141111472_Vialli Lawin\Selasa_141111472_Vialli Lawin\obj\Debug\Selasa_141111472_Vialli Lawin.exe
 C:\Users\User\Documents\Selasa_141111472_Vialli Lawin\Selasa_141111472_Vialli Lawin\obj\Debug\Selasa_141111472_Vialli Lawin.pdb
+C:\Users\User\Documents\New folder\-Selasa_141111472_Vialli-Lawin\Latihan_1_1\bin\Debug\Selasa_141111472_Vialli Lawin.exe.config
+C:\Users\User\Documents\New folder\-Selasa_141111472_Vialli-Lawin\Latihan_1_1\obj\Debug\Selasa_141111472_Vialli Lawin.exe
+C:\Users\User\Documents\New folder\-Selasa_141111472_Vialli-Lawin\Latihan_1_1\obj\Debug\Selasa_141111472_Vialli Lawin.pdb

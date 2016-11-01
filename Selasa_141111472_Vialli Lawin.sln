@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Latihan_1_1", "Selasa_141111472_Vialli Lawin\Latihan_1_1.csproj", "{5B7A39B3-A432-4564-AABD-15202056D4D8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Latihan_1_1", "Latihan_1_1\Latihan_1_1.csproj", "{5B7A39B3-A432-4564-AABD-15202056D4D8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Latihan_2_1", "Latihan_1_2\Latihan_2_1.csproj", "{C5F2356A-16CE-4EFB-B581-95173CA18221}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Latihan_2_1", "Latihan_2_1\Latihan_2_1.csproj", "{C5F2356A-16CE-4EFB-B581-95173CA18221}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Latihan_3_1", "WindowsFormsApplication1\Latihan_3_1.csproj", "{A880C39D-B9C0-4A3A-A0F4-B252A1F46F1B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Latihan_3_1", "Latihan_3_1\Latihan_3_1.csproj", "{A880C39D-B9C0-4A3A-A0F4-B252A1F46F1B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Latihan_4_1", "Latihan_1_4\Latihan_4_1.csproj", "{6B5CB29D-AABA-4E5D-A475-ABEA04A13833}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Latihan_4_1", "Latihan_4_1\Latihan_4_1.csproj", "{6B5CB29D-AABA-4E5D-A475-ABEA04A13833}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Latihan_5_1", "Latihan_5_1\Latihan_5_1.csproj", "{7B1E8AE3-A95F-49CF-BBE5-28880C745B00}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{6B5CB29D-AABA-4E5D-A475-ABEA04A13833}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6B5CB29D-AABA-4E5D-A475-ABEA04A13833}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6B5CB29D-AABA-4E5D-A475-ABEA04A13833}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B1E8AE3-A95F-49CF-BBE5-28880C745B00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B1E8AE3-A95F-49CF-BBE5-28880C745B00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B1E8AE3-A95F-49CF-BBE5-28880C745B00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B1E8AE3-A95F-49CF-BBE5-28880C745B00}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
